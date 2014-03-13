@@ -1,0 +1,119 @@
+#orangeBar {
+  background-color: orange;
+  height: 20px;
+  width: 100%;
+}
+
+#pageContent{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#heading{
+    color: white;
+    background-color: rgb(127, 51, 0);
+    padding-top: 40px;
+    padding-bottom:40px;
+    padding-left: 100px;
+}
+
+h1 {
+    margin: 0;
+}
+
+body{
+    background-color: black;
+    margin: 0;
+}
+
+#footer{
+    background-color: rgb(150, 150, 150);
+    clear: both;
+    padding: 25px 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#leftContent{
+    margin: auto;
+    width: 100%;
+    background-color: white;
+    height: 600px;
+}
+
+p{
+    margin: 0;
+}
+
+.centerImage{
+    margin: 0 auto;
+    width: 50%;
+}
+
+#leftContent table{
+    border-collapse: collapse;
+}
+
+#leftContent table th{
+    background-color: rgb(120, 120, 120);
+    text-align: center;
+    font-weight: bold;
+    border: solid black 1px;
+}
+
+#leftContent table td{
+    border: solid black 1px;
+}
+
+.centerTablePage1{
+    padding-left: 40%;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+label{
+    float: left;
+    text-align: right;
+    margin-right: 15px;
+    width: 150px;
+}
+
+input, select, textarea{
+    margin-top: 5px;
+}
+
+.center{
+    text-align: center;
+}
+
+.inputStretch{
+    width: 450px;
+}
+
+.inputAverage{
+    width: 200px;
+}
+
+.selectInput{
+    width: 210px;
+}
+
+.noFloat{
+    float: none;
+}
+
+#displayArea{
+    margin: 0px auto;
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    border: 2px solid black;
+    position: relative;
+}
+
+#buttonContainer{
+    margin: 0px auto;
+    background-color: white;
+    width: 960px;
+    text-align: center;
+}
